@@ -6,3 +6,7 @@ the number 105 represented in binary form is 01101001, and for example the numbe
 The binary form of the number should be displayed on the page so that the zeros are represented by a red circle,
 the units should be a green circle, the period while waiting for a new value is shown with 8 yellow ones
 circles
+Link
+https://www.random.org/integers/?num=1&min=0&max=255&col=1&base=10&format=plain&rnd
+= new
+returns a random number in the interval from 0 to 255
