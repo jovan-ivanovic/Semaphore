@@ -1,0 +1,29 @@
+    #binaryDisplay {
+      display: grid;
+      grid-template-columns: repeat(8, minmax(10vh, 1fr)); 
+      gap: 10px;
+      align-items: flex-start; 
+    }
+   
+    .circle {
+      width: 60vh;
+      height: 60vh;
+      max-width: 150px;
+      max-height: 150px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .red { 
+      background-color: red; 
+    }
+
+    .green { 
+      background-color: green; 
+    }
+
+    .yellow { 
+      background-color: yellow; 
+    }
+  
